@@ -15,9 +15,10 @@ int main() {
 
     char str[] = "Hola mundo";
 
-    int length = strlen(str);
+    // Usar size_t para almacenar la longitud de una cadena
+    size_t length = strlen(str);
 
-    printf("La longitud de '%s' es: %d\n", str, length);
+    printf("La longitud de '%s' es: %zu\n", str, length);
 
     return 0;
 }
