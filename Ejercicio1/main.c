@@ -1,5 +1,5 @@
-#include <stdio.h>
 #include <string.h>
+#include <stdio.h>
 
 int main() {
     char str1[] = "Hola";
@@ -12,13 +12,6 @@ int main() {
     } else {
         printf("Las cadenas son diferentes.\n");
     }
-
-    char str[] = "Hola mundo";
-
-    // Usar size_t para almacenar la longitud de una cadena
-    size_t length = strlen(str);
-
-    printf("La longitud de '%s' es: %zu\n", str, length);
 
     return 0;
 }
