@@ -1,3 +1,4 @@
 C:/Users/danij/OneDrive/Documentos/GitHub/Libreria_Estandar_de_C/Ejercicio1/cmake-build-debug/CMakeFiles/Ejercicio1.dir
+C:/Users/danij/OneDrive/Documentos/GitHub/Libreria_Estandar_de_C/Ejercicio1/cmake-build-debug/CMakeFiles/main.dir
 C:/Users/danij/OneDrive/Documentos/GitHub/Libreria_Estandar_de_C/Ejercicio1/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/danij/OneDrive/Documentos/GitHub/Libreria_Estandar_de_C/Ejercicio1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
